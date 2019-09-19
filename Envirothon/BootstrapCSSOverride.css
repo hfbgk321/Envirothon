@@ -1,0 +1,11 @@
+body{
+	background-image: url("nature2.jpg");
+	background-size: 1600px 900px;
+}
+
+.jumbotron-fluid{
+	background-color: grey;
+}
+.display-4{
+	font-family: 'Anton', sans-serif;
+}
